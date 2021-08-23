@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tailor Technologies;Contacto;;;
+FN:Contacto Tailor Technologies
+EMAIL;TYPE=INTERNET;TYPE=WORK:contacto@tailortech.cl
+TEL;TYPE=work:+56993511619
+ADR;TYPE=home:;;Colon #352, Oficina 426;la serena;la serena;10000;Chile
+END:VCARD
